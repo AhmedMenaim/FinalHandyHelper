@@ -1,1 +1,1 @@
-web: guicorn HandyHelper.wsgi
+web: gunicorn HandyHelper.wsgi
